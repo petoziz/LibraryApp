@@ -1,0 +1,28 @@
+The Hobbit;J.R.R. Tolkien;1937;false
+1984;George Orwell;1949;false
+Brave New World;Aldous Huxley;1932;false
+To Kill a Mockingbird;Harper Lee;1960;false
+Moby Dick;Herman Melville;1851;false
+Pride and Prejudice;Jane Austen;1813;false
+The Great Gatsby;F. Scott Fitzgerald;1925;false
+War and Peace;Leo Tolstoy;1869;false
+Crime and Punishment;Fyodor Dostoevsky;1866;false
+The Catcher in the Rye;J.D. Salinger;1951;false
+Jane Eyre;Charlotte Brontë;1847;false
+Animal Farm;George Orwell;1945;false
+The Lord of the Rings;J.R.R. Tolkien;1954;false
+Les Misérables;Victor Hugo;1862;false
+The Brothers Karamazov;Fyodor Dostoevsky;1880;false
+The Alchemist;Paulo Coelho;1988;false
+Don Quixote;Miguel de Cervantes;1605;false
+Frankenstein;Mary Shelley;1818;false
+Dracula;Bram Stoker;1897;false
+The Divine Comedy;Dante Alighieri;1320;false
+Ulysses;James Joyce;1922;false
+Wuthering Heights;Emily Brontë;1847;false
+The Picture of Dorian Gray;Oscar Wilde;1890;false
+The Stranger;Albert Camus;1942;false
+Fahrenheit 451;Ray Bradbury;1953;false
+The Sound and the Fury;William Faulkner;1929;false
+Lolita;Vladimir Nabokov;1955;false
+The Old Man and the Sea;Ernest Hemingway;1952;false

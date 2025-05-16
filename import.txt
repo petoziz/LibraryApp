@@ -1,0 +1,30 @@
+The Hobbit;J.R.R. Tolkien;1937
+1984;George Orwell;1949
+Brave New World;Aldous Huxley;1932
+To Kill a Mockingbird;Harper Lee;1960
+Moby Dick;Herman Melville;1851
+Pride and Prejudice;Jane Austen;1813
+The Great Gatsby;F. Scott Fitzgerald;1925
+War and Peace;Leo Tolstoy;1869
+Crime and Punishment;Fyodor Dostoevsky;1866
+The Catcher in the Rye;J.D. Salinger;1951
+Jane Eyre;Charlotte Brontë;1847
+Animal Farm;George Orwell;1945
+The Lord of the Rings;J.R.R. Tolkien;1954
+Les Misérables;Victor Hugo;1862
+The Brothers Karamazov;Fyodor Dostoevsky;1880
+The Alchemist;Paulo Coelho;1988
+Don Quixote;Miguel de Cervantes;1605
+Frankenstein;Mary Shelley;1818
+Dracula;Bram Stoker;1897
+The Odyssey;Homer;-800
+The Divine Comedy;Dante Alighieri;1320
+Ulysses;James Joyce;1922
+One Hundred Years of Solitude;Gabriel García Márquez;1967
+Wuthering Heights;Emily Brontë;1847
+The Picture of Dorian Gray;Oscar Wilde;1890
+The Stranger;Albert Camus;1942
+Fahrenheit 451;Ray Bradbury;1953
+The Sound and the Fury;William Faulkner;1929
+Lolita;Vladimir Nabokov;1955
+The Old Man and the Sea;Ernest Hemingway;1952
